@@ -1,0 +1,10 @@
+C:\Users\Владислав\source\repos\Практическая 3 (1)\bin\Debug\Практическая 3 (1).dll
+C:\Users\Владислав\source\repos\Практическая 3 (1)\bin\Debug\Практическая 3 (1).pdb
+C:\Users\Владислав\source\repos\Практическая 3 (1)\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Владислав\source\repos\Практическая 3 (1)\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Владислав\source\repos\Практическая 3 (1)\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Владислав\source\repos\Практическая 3 (1)\obj\Debug\Практическая 3 (1).csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\Практическая 3 (1)\obj\Debug\Практическая 3 (1).csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\Практическая 3 (1)\obj\Debug\________.81A5BE18.Up2Date
+C:\Users\Владислав\source\repos\Практическая 3 (1)\obj\Debug\Практическая 3 (1).dll
+C:\Users\Владислав\source\repos\Практическая 3 (1)\obj\Debug\Практическая 3 (1).pdb
